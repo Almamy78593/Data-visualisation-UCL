@@ -1,0 +1,6 @@
+/en/comps/8/2022-2023/stats/2022-2023-Champions-League-Stats
+/en/comps/8/2021-2022/stats/2021-2022-Champions-League-Stats
+/en/comps/8/2020-2021/stats/2020-2021-Champions-League-Stats
+/en/comps/8/2019-2020/stats/2019-2020-Champions-League-Stats
+/en/comps/8/2018-2019/stats/2018-2019-Champions-League-Stats
+/en/comps/8/2017-2018/stats/2017-2018-Champions-League-Stats

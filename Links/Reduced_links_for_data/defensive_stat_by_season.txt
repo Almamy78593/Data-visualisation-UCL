@@ -1,0 +1,6 @@
+/en/comps/8/2022-2023/defense/2022-2023-Champions-League-Stats
+/en/comps/8/2021-2022/defense/2021-2022-Champions-League-Stats
+/en/comps/8/2020-2021/defense/2020-2021-Champions-League-Stats
+/en/comps/8/2019-2020/defense/2019-2020-Champions-League-Stats
+/en/comps/8/2018-2019/defense/2018-2019-Champions-League-Stats
+/en/comps/8/2017-2018/defense/2017-2018-Champions-League-Stats
